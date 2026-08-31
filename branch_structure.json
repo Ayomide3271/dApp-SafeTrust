@@ -1,0 +1,24 @@
+{
+  "default_branch": "consolidation-pattern",
+  "branches": [
+    "consolidation-pattern",
+    "dev",
+    "docs/issue-368-docs-skeleton",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "consolidation-pattern": null,
+    "dev": "consolidation-pattern",
+    "docs/issue-368-docs-skeleton": "consolidation-pattern",
+    "main": "consolidation-pattern",
+    "origin": "consolidation-pattern"
+  },
+  "order": [
+    "consolidation-pattern",
+    "dev",
+    "docs/issue-368-docs-skeleton",
+    "main",
+    "origin"
+  ]
+}
